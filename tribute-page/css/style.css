@@ -1,12 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
+body {
+font-family: 'Raleway' , sans-serif;
+}
+
 #main {
     background: rgb(252, 250, 245);
     text-align: center;
-    display: block;
+    font-family: 'Raleway' , sans-serif;
+}
+
+img {
+    max-width: 100%;
 }
 
 #img-div {
-    background-color: wheat;;
-    align-self: center;
+    background-color: wheat;
+    text-align: center;
 }
 
+main {
+    background: rgb(252, 250, 245);
+    padding-left: 300px;
+    padding-right: 300px;
+    word-spacing: 03%;
+}
 
+h2 {
+    text-align: center;
+    display: block;
+}
